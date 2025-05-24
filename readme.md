@@ -58,9 +58,9 @@ pip install -r requirements.txt
 python main.py
 Replace main.py with the main script of the respective project.
 
-🤝 Contributing
-Contributions are welcome!
+## 🤝 Contributing
+### Contributions are welcome!
 If you have suggestions for improvements or want to add features, feel free to fork this repository and submit a pull request.
 
-📄 License
-This project is licensed under the MIT License.
+## 📄 License
+### This project is licensed under the MIT License.
